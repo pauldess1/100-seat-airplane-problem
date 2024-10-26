@@ -65,8 +65,6 @@ The graphs are automatically displayed upon running in this mode and can be save
 
 ## Results Visualization
 
-*Add a photo of the visualization results from the simulation here.*
-
 ![Simulation Results](images/Stats.png)
 
 ## Video Visualization
