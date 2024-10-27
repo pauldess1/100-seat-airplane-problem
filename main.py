@@ -78,7 +78,7 @@ def visualize():
     norm = colors.BoundaryNorm(bounds, cmap.N)
 
     simu.firstPassengerSeat()
-    
+
     frames = []
 
     def update(frame):
@@ -147,8 +147,6 @@ def display_probability(trials):
 
     plt.tight_layout()
     plt.show()
-
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Choose the mode of operation.')

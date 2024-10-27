@@ -20,6 +20,8 @@ This project simulates the problem of a 100-seat airplane and tries to understan
 
 There are 100 passengers lined up (in a random order) to board a plane. The plane is fully booked, meaning there are exactly 100 seats available. Due to a technical malfunction, the first passenger chooses a seat at random, with all seats equally likely. Each of the other passengers then proceeds as follows: if their assigned seat is free, they will sit in it; otherwise, they will take a random available seat. What is the probability that the last passenger will sit in their assigned seat ?
 
+Before you run the code and see the results, try to solve the problem yourself!
+Be careful, it's not a simple question...
 
 ## Features
 
